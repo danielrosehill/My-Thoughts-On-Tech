@@ -1,3 +1,7 @@
+---
+title: "AI Code-Gen Is A Digital Emanicpation"
+---
+
 # The Demise Of Human Coding, Rise Of AI Copilots, And Why I Think It Will Be A Good Thing For Everyone Involved (Yes, Including Programmers)
 
 *Just a thought in a Github repo, written by: Daniel Rosehill*

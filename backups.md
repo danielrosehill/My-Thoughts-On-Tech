@@ -1,4 +1,10 @@
+---
+title: "The sorry state of consumer SaaS backup"
+---
+
 # Why I Refuse To Stop Caring About Backup Stuff
+
+## Alternate title: *The (Continued*) Sorry State Of Consumer SaaS Backup & Data Protection
 
 ![alt text](../images/sloth-running-backups.png)
 
