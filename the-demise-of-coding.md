@@ -1,5 +1,5 @@
 ---
-title: "AI Code-Gen Is A Digital Emanicpation"
+title: "AI Code-Gen Is A Digital Emanicpatio"
 ---
 
 # The Demise Of Human Coding, Rise Of AI Copilots, And Why I Think It Will Be A Good Thing For Everyone Involved (Yes, Including Programmers)
